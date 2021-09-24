@@ -1,0 +1,61 @@
+[
+  {
+    "phone" : "9899018056",
+    "contactList": [
+      {
+        "phoneNumber": "9891919191",
+        "personName": "AAA"
+      },
+      {
+        "phoneNumber": "9891919192",
+        "personName": "BBB"
+      },
+      {
+        "phoneNumber": "9899018057",
+        "personName": "Shiv kumar"
+      },
+      {
+        "phoneNumber": "9899018058",
+        "personName": "Amar kumar"
+      }
+    ]
+  },
+   {
+    "phone" : "9899018057",
+    "contactList":[
+      {
+        "phoneNumber": "9891919193",
+        "personName": "DDD"
+      },
+      {
+        "phoneNumber": "9891919194",
+        "personName": "EEE"
+      },
+      {
+        "phoneNumber": "9899018058",
+        "personName": "Amar"
+      },
+      {
+        "phoneNumber": "9899018056",
+        "personName": "Raj kumar"
+      }
+    ]
+  },
+   {
+    "phone" : "9899018058",
+    "contactList":[
+      {
+        "phoneNumber": "9722211331",
+        "personName": "GGG"
+      },
+      {
+        "phoneNumber": "9622211331",
+        "personName": "HHH"
+      },
+      {
+        "phoneNumber": "9522211331",
+        "personName": "EHB"
+      }
+    ]
+  }
+]
